@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B079DDA26824F7F00975ED8 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B079DD926824F7F00975ED8 /* AnimalListItemView.swift */; };
+		2B079DDC2682516D00975ED8 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B079DDB2682516D00975ED8 /* AnimalModel.swift */; };
 		2B64DF452681089700DD3140 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B64DF442681089700DD3140 /* AfricaApp.swift */; };
 		2B64DF472681089700DD3140 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B64DF462681089700DD3140 /* ContentView.swift */; };
 		2B64DF492681089700DD3140 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B64DF482681089700DD3140 /* Assets.xcassets */; };
@@ -35,6 +37,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B079DD926824F7F00975ED8 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
+		2B079DDB2682516D00975ED8 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
 		2B64DF412681089700DD3140 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B64DF442681089700DD3140 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		2B64DF462681089700DD3140 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -160,6 +164,7 @@
 			isa = PBXGroup;
 			children = (
 				2B64DF7C2681138800DD3140 /* CoverImageView.swift */,
+				2B079DD926824F7F00975ED8 /* AnimalListItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -168,6 +173,7 @@
 			isa = PBXGroup;
 			children = (
 				2B64DF7E268115CC00DD3140 /* CoverImageModel.swift */,
+				2B079DDB2682516D00975ED8 /* AnimalModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -264,9 +270,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B64DF472681089700DD3140 /* ContentView.swift in Sources */,
+				2B079DDA26824F7F00975ED8 /* AnimalListItemView.swift in Sources */,
 				2B64DF7B26810F8100DD3140 /* MainView.swift in Sources */,
 				2B64DF7D2681138800DD3140 /* CoverImageView.swift in Sources */,
 				2B64DF7F268115CC00DD3140 /* CoverImageModel.swift in Sources */,
+				2B079DDC2682516D00975ED8 /* AnimalModel.swift in Sources */,
 				2B64DF7726810F5300DD3140 /* MapView.swift in Sources */,
 				2B64DF452681089700DD3140 /* AfricaApp.swift in Sources */,
 				2B64DF7526810F4800DD3140 /* VideoListView.swift in Sources */,
