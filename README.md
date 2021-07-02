@@ -20,11 +20,13 @@ To run the simulator, you will need Xcode, I use v12.5
 
 ## Demo
 
-![](.github/images/screen1.png) ![](.github/images/screen2.png) ![](.github/images/screen3.png)
+![](.github/images/screen1.png) ![](.github/images/screen2.png) 
 
-![](.github/images/screen4.png) ![](.github/images/screen5.png) ![](.github/images/screen6.png)
+![](.github/images/screen3.png) ![](.github/images/screen4.png)
 
-![](.github/images/screen7.png) ![](.github/images/screen8.png) ![](.github/images/screen9.png)
+![](.github/images/screen5.png) ![](.github/images/screen6.png)
+
+![](.github/images/screen7.png) ![](.github/images/screen8.png)
 
 ![](.github/images/screen10.png) ![](.github/images/screen11.png)
 
